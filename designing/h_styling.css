@@ -1,0 +1,93 @@
+.header1{
+	padding-bottom: 0px;
+	margin: 0px;			
+	position: sticky;
+}
+/*.navbar{
+	align-content: center;
+}*/
+.avatar{
+	height: inherit;
+	width: 40px;
+	margin-top: 7px;
+	cursor: pointer;
+	padding-bottom: 10px;
+}
+		
+.margin{
+	margin-top: 300px;
+}
+#form{
+	display: none;
+	max-width: 1200px;
+	margin-left: 200px;
+}
+.avatarform{
+	margin-left: 300px;
+	height: 200px;
+	width: 200px
+}
+/*.marginbottom{
+	margin-bottom: 12px;
+}*/
+.margintop{
+	margin-top: 12px;			
+}
+.btnlogin{
+	margin-top: 12px;
+	/*margin-left: 80px;*/
+	width: 210px;
+	cursor: pointer;
+}
+#yeye{
+	margin-left: 500px;
+}
+.navbar{
+	margin-top: 40px;
+}
+.font{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+}
+.registform{
+	margin-top: 3px;
+	max-width: 1200px;
+}
+.btnreg{
+	margin-left: 600px;
+}
+#logoutform{
+	display: none;
+	position: relative;
+}
+.px200{
+	margin-left: 200px;
+	margin-top: 1px;
+}
+.table200px{
+	margin-left: 400px;
+}
+.bgimage{
+	background-image: url("../images/avatar3.png");
+}
+.profile{
+	height: 60px;
+	width: 60px;
+	margin-left: 30px;
+
+}
+.profileleft{
+	margin-left: 30px;
+}
+#registerDoctor{
+	display: none;
+}
+#viewDoctor{
+	display: none;
+}
+#viewPatients{
+	display: none;
+}
+#schedules{
+	display: none;
+}
